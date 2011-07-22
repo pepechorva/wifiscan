@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Wifiscan
+Comment=Deector de redes Wifi
+Exec=wifiscan
+Icon=network-workgroup
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Application;Network;
+
